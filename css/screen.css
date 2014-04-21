@@ -195,3 +195,13 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+
+footer {
+    display: block;
+    border-top: 1px dashed #CCC;
+}
+
+footer small {
+    font-size: 13px;
+    color: #999;
+}
