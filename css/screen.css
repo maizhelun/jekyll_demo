@@ -81,9 +81,17 @@ ul.posts {
 .site {
   font-size: 110%;
   text-align: justify;
-  width: 42em;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
+
+  -moz-box-shadow: 0 0 10px 0 #cfcfcf;
+  -webkit-box-shadow: 0 0 10px 0 #cfcfcf;
+  box-shadow: 0 0 10px 0 #cfcfcf;
+  border-top: 6px solid #EE0000;
+  width: 50%;
+  min-width: 32em;
+  max-width: 50em;
+  padding: 3em 3em 1.5em;
 }
 
 .title {
